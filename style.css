@@ -75,6 +75,7 @@
 
 .content {
    background-color: #d1d1d1;
+   display: inline-flexbox;
    padding: 30px;
    min-height: 120px;
    margin-top: 30px;
@@ -92,7 +93,7 @@
 
 @media(max-width:800px) {
   .content {
-    width: 95%;
+    width: 84.5%;
   }
 }
 
