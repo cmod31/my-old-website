@@ -75,7 +75,7 @@
 
 .content {
    background-color: #d1d1d1;
-   display: inline-flexbox;
+   display: flexbox;
    padding: 30px;
    min-height: 120px;
    margin-top: 30px;
