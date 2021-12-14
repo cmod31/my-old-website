@@ -104,7 +104,7 @@
 
         /* gamebanana" */
         .btn8 {
-          background-color: #ffde25;
+          background-color: #e6c927;
           border: none;
           color: white;
           padding: 12px 30px;
@@ -114,5 +114,5 @@
         }
         
        .btn8:hover {
-          background-color: #e6c927;
+          background-color: #ccb220;
         }

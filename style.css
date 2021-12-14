@@ -27,7 +27,7 @@
   }
   
   .topnav a {
-    float: left;
+    float: right;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -36,14 +36,16 @@
     font-family: "Helvetica";
   }
 
+
   .topnav > a.logo {
+    float: left;
     padding:0;
     padding-left:16px;
     padding-right:16px;
     padding-top:7px;
   }
 
-  .topnav a:hover {
+  .topnav a:hover:not(.logo) {
     background-color: #ddd;
     color: black;
   }
@@ -72,7 +74,6 @@
 
 .content {
    background-color: #d1d1d1;
-   display: flexbox;
    padding: 30px;
    min-height: 120px;
    margin-top: 30px;
@@ -113,4 +114,16 @@ hr {
 
 img:not(.noround), video {
   border-radius: 10px;
+}
+
+.copybtn{
+  background-color: rgb(59, 59, 59);
+  border: none;
+  padding: 5px 5px;
+  border-radius: 25%;
+  color: white;
+  cursor: pointer;
+}
+.copybtn:active{
+background-color: green;
 }
