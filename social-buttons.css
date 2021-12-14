@@ -101,3 +101,18 @@
       background-color: #d35621;
       color: black;
     }
+
+        /* gamebanana" */
+        .btn8 {
+          background-color: #ffde25;
+          border: none;
+          color: white;
+          padding: 12px 30px;
+          cursor: pointer;
+          font-size: 20px;
+          border-radius: 25px;
+        }
+        
+       .btn8:hover {
+          background-color: #e6c927;
+        }
