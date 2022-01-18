@@ -1,9 +1,10 @@
  body {
+    margin: 0;
     background-image: url('bg-1.webp');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    font-family: "Helvetica";
+    font-family: "Helvetica", sans-serif;
   }
 
   .link {
