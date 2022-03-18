@@ -1,10 +1,12 @@
+:root{
+  color-scheme: dark;
+}
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@800&family=Varela+Round&display=swap');
 
 body{
     background-color: #141530;
     font-family: 'Varela Round', sans-serif;
-    color: white;
     font-size: 150%;
 }
 
@@ -47,7 +49,6 @@ h1{
     border: none;
     padding: 5px 5px;
     border-radius: 20%;
-    color: white;
     cursor: pointer;
   }
   .copybtn:active{
@@ -57,7 +58,6 @@ h1{
   .dcbtn {
     background-color: #5865F2;
     border: none;
-    color: white;
     padding: 12px 30px;
     cursor: pointer;
     font-size: 20px;

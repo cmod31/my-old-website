@@ -1,118 +1,80 @@
+/*this is unnecessary garbage i will clean that up later
+
 /* Mail */
-.btn {
-    background-color: #1E90FF;
-    border: none;
+button {
     color: white;
+    border: none;
     padding: 12px 30px;
     cursor: pointer;
     font-size: 20px;
     border-radius: 25px;
   }
-  .btn:hover {
+  .b1 {
+    background-color: #1E90FF;
+  }
+  .b1:hover {
     background-color: #217fdd;
   }
   /* GitHub */
-  .btn2 {
+  .b2 {
     background-color: #19253C;
-    border: none;
-    color: white;
-    padding: 12px 30px;
-    cursor: pointer;
-    font-size: 20px;
-    border-radius: 25px;
   }
   
- .btn2:hover {
+ .b2:hover {
     background-color: #091020;
   }
   
 /* Discord */
-  .btn3 {
+  .b3 {
     background-color: #5865F2;
-    border: none;
-    color: white;
-    padding: 12px 30px;
-    cursor: pointer;
-    font-size: 20px;
-    border-radius: 25px;
   }
   
- .btn3:hover {
+ .b3:hover {
     background-color: #404EED;
   }
 
   /* Twitch */
-  .btn4 {
+  .b4 {
     background-color: #6441a5;
-    border: none;
-    color: white;
-    padding: 12px 30px;
-    cursor: pointer;
-    font-size: 20px;
-    border-radius: 25px;
   }
   
- .btn4:hover {
+ .b4:hover {
     background-color: #563a8b;
   }
 
     /* YouTube */
-    .btn5 {
+    .b5 {
       background-color: #FF0000;
-      border: none;
-      color: white;
-      padding: 12px 30px;
-      cursor: pointer;
-      font-size: 20px;
-      border-radius: 25px;
     }
     
-   .btn5:hover {
+   .b5:hover {
       background-color: #be0000;
     }
 
     /* OnlyFans */
-    .btn6 {
+    .b6 {
       background-color: #1f95b1;
-      border: none;
-      color: white;
-      padding: 12px 30px;
-      cursor: pointer;
-      font-size: 20px;
-      border-radius: 25px;
     }
     
-   .btn6:hover {
+   .b6:hover {
       background-color: #1b89a5;
     }
 
     /* local "Contact" */
-    .btn7 {
+    .b7 {
       background-color: #FF6625;
-      border: none;
-      color: white;
-      padding: 12px 30px;
-      cursor: pointer;
-      font-size: 20px;
-      border-radius: 25px;
     }
     
-   .btn7:hover {
+   .b7:hover {
       background-color: #d35621;
       color: black;
     }
 
-        /* gamebanana" */
-        .btn8 {
-          background-color: #e6c927;
-          border: none;
-          color: white;
-          padding: 12px 30px;
-          cursor: pointer;
-          font-size: 20px;
-          border-radius: 25px;
-        }
+   /* gamebanana" */
+   .b8 {
+     background-color: #e6c927;
+    }
         
-       .btn8:hover {
-          background-color: #ccb220;
-        }
+  .b8:hover {
+     background-color: #ccb220;
+    }
